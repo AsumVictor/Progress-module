@@ -1,10 +1,10 @@
-# Progress-module
+# Progress-module August - October @2022
 What will I learn? what project will I build? and Road maps are all here.
 I have planned how I will learn programming in August 2022.
 
 ## MY ROADMAP FOR AUGUST-OCTOBER 2022
 - [x] LANGUAGES
-  - [ ] Javascript
+   - [ ] Javascript
       - Introduction
       
       - Classes
@@ -27,14 +27,14 @@ I have planned how I will learn programming in August 2022.
 
      - DOM Node
 
- - [ ] CSS FRAMEWORKS
+   - [ ] CSS FRAMEWORKS
      - Bootstrap 
      - Materialize css
      - foundation css
      - Tailwind 
      - Bulma 
  
-- [x] PROJECTS
+ - [x] PROJECTS
    - A Calculator
    - Countdown Timer
    - To-Do List
@@ -46,11 +46,11 @@ I have planned how I will learn programming in August 2022.
    - A Quiz App
    - Tic Tac Toe
    
-   - [x] CHALLENGES
-     - frontendmentor 
-     - codewars
-     - Hackerton
-     - codewell
-     - Any other resources
+ - [x] CHALLENGES
+    - frontendmentor 
+    - codewars
+    - Hackerton
+    - codewell
+    - Any other resources
      
      ** THANK Y'ALL **
